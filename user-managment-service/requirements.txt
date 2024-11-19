@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+aiohttp
+boto3
+python-dotenv
+pandas
+sqlalchemy
+tenacity
+aiomysql
+mysqlclient
+asyncpg
